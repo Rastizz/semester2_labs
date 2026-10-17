@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d5c47a9860774be8a33c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DZ1_1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DZ1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DZ1_1-Debug-fd9ce15da6963c47708e.json",
+					"name" : "DZ1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DZ1_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DZ1_1_autogen-Debug-f3d5e716372d66cadc08.json",
+					"name" : "DZ1_1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DZ1_1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DZ1_1_autogen_timestamp_deps-Debug-0157d8b1a5b18de2b67f.json",
+					"name" : "DZ1_1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maksim/work/DZ1/DZ1_1/DZ1_1/build/Desktop-Debug",
+		"source" : "/home/maksim/work/DZ1/DZ1_1/DZ1_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

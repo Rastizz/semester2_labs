@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-81e232f0ab1aaf4e44a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ptp1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ptp1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ptp1-Debug-b1d5d055c23a9b463b2c.json",
+					"name" : "ptp1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ptp1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ptp1_autogen-Debug-09db09f22fad3b33c393.json",
+					"name" : "ptp1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ptp1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ptp1_autogen_timestamp_deps-Debug-746dd070883c185fe6c8.json",
+					"name" : "ptp1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/maksim/work/ptp/zadanie1/ptp1/build/Desktop-Debug",
+		"source" : "/home/maksim/work/ptp/zadanie1/ptp1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

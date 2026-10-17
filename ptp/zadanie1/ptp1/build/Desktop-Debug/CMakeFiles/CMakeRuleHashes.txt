@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+57c5f2da880fb48c2a377f64a334900b CMakeFiles/ptp1_autogen
+57c5f2da880fb48c2a377f64a334900b CMakeFiles/ptp1_autogen_timestamp_deps
+7a43f0ec9329ea5020ecb867bd025990 ptp1_autogen/timestamp

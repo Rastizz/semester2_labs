@@ -1,0 +1,14 @@
+/home/maksim/work/laba4/laba4/bin/Debug/net10.0/laba4
+/home/maksim/work/laba4/laba4/bin/Debug/net10.0/laba4.deps.json
+/home/maksim/work/laba4/laba4/bin/Debug/net10.0/laba4.runtimeconfig.json
+/home/maksim/work/laba4/laba4/bin/Debug/net10.0/laba4.dll
+/home/maksim/work/laba4/laba4/bin/Debug/net10.0/laba4.pdb
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.AssemblyInfoInputs.cache
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.AssemblyInfo.cs
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.csproj.CoreCompileInputs.cache
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.dll
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/refint/laba4.dll
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.pdb
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/laba4.genruntimeconfig.cache
+/home/maksim/work/laba4/laba4/obj/Debug/net10.0/ref/laba4.dll

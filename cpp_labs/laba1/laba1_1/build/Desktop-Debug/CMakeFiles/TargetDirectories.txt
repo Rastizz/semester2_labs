@@ -1,0 +1,9 @@
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/laba1.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/install.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/laba1_autogen_timestamp_deps.dir
+/home/maksim/laba1/build/Desktop-Debug/CMakeFiles/laba1_autogen.dir
